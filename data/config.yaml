@@ -1,0 +1,10 @@
+#This is the basic data needed to create the file
+# weburl
+vstudio_URL:
+  URL: "http://139.198.191.245/"
+
+index_URL:
+  URL: "http://192.168.1.101/app"
+
+datacollector_URL:
+  URL: "http://139.198.191.245:8090"

@@ -1,0 +1,33 @@
+#This is the basic data needed to create the workspace
+
+## workspace创建要验证包括中文字符
+workspace:
+  spacename: "testKyle"
+  spacenamefir: "!!@@## !"
+  spacenamesen: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  spacename_chinese: "工作空间Kyle"
+
+##模糊查询包含[或者$报错，已报bug
+fuzzy_list:
+  fuzzy_one: "456"
+  fuzzy_special: "%@"
+  fuzzy_chinese: "测试"
+  fuzzy_no: "789"
+  spacename1: "test456"
+  spacename2: "exd2021"
+  spacename3: "测试workspace"
+
+
+workspace_in:
+  filepath: workspace01.json
+  filename: workspace01.json
+
+# 修改名称
+workspace_upname:
+  filepath: workspace02.json
+  filename: workspace02.json
+
+# 修改内容
+workspace_updes:
+  filepath: workspace03.json
+  filename: workspace03.json

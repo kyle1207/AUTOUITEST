@@ -1,0 +1,250 @@
+user_Mgmt:
+  normal:
+    username: "lhx1227"
+    email: "lhx1227@smartsct.com"
+    password: "test123"
+    surname:  "lv"
+    name: "hx"
+  normal1:
+    username: "lhx0106"
+    email: "lhx0106@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+  rules:
+    username: "lhx5*2!"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+  repeatuser:
+    username: "lhx1227"
+    email: "lhx1027@smartsct.com"
+    password: "test123"
+    surname:  "lv"
+    name: "hx"
+
+normalUser_group_Mgmt:
+  groupname: "普通用户测试组"
+  rolename: "普通用户"
+operator_group_Mgmt:
+  groupname: "开发运营测试组"
+  rolename: "开发运营人员"
+acquisition_group_Mgmt:
+  groupname: "数采运营测试组"
+  rolename: "数采运营人员"
+downloader_group_Mgmt:
+  groupname: "数据下载测试组"
+  rolename: "数据下载人员"
+
+groupNames:
+-
+  - "数采运营测试组"
+  - "开发运营测试组"
+-
+  - "开发运营测试组"
+  - "数据下载测试组"
+-
+  - "普通用户测试组"
+-
+  - "数采运营测试组"
+  - "开发运营测试组"
+  - "数据下载测试组"
+-
+  - "数采运营测试组"
+  - "开发运营测试组"
+  - "普通用户测试组"
+-
+  - "数采运营测试组"
+  - "普通用户测试组"
+  - "数据下载测试组"
+  - "开发运营测试组"
+-
+  - "开发运营测试组"
+-
+  - "数采运营测试组"
+  - "数据下载测试组"
+-
+  - "开发运营测试组"
+  - "普通用户测试组"
+abuserinfo:
+-
+    username: "lhx_123!"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123@"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123#"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123$"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123%"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123&"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123*"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123^"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123("
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123)"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123?"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123;"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123:"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123<"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123>"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123+"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123="
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123,"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123."
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123/"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123["
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123]"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123{"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123}"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123|"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123\\"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123`"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123~"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123'"
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"
+-
+    username: "lhx_123\""
+    email: "lhx1231@smartsct.com"
+    password: "test123"
+    surname: "lv"
+    name: "hx"

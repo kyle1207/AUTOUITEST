@@ -1,0 +1,7 @@
+#This is the basic data needed to create the file
+
+uploadFile:
+  filepath: testdata
+  filename: test.csv
+DirSelect:
+  dirname: "TestKyle"

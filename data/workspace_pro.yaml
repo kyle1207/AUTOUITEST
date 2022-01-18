@@ -1,0 +1,15 @@
+# this is workspace sub-function
+
+login_info:
+  username: "kyle"
+  password: "123456"
+
+
+base_space:
+  spaceName: "baseSpace"
+
+
+new_project:
+  projectName: "newProject"
+  projectSpaceName: "   "
+  projectSpecialName: "@#%"

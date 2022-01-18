@@ -1,0 +1,21 @@
+#This is the basic data needed to create the file
+
+#userinfo
+vstudio_dev:
+  username: "kyle"
+  password: "123456"
+vstudio_operator:
+  username: "who0702-vstudio"
+  password: "123456"
+datacollector_operator:
+  username: "who0702"
+  password: "123456"
+admin:
+  username: "admin"
+  password: "admin"
+invalid_user:
+  username: "vstudio_invalid$3"
+  password: "123456"
+vstudio_role:
+  username: "lhx1227"
+  password: "test123"
